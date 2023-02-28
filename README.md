@@ -22,5 +22,7 @@ python keylogger.py
 
 ## Tested on:
 - Kali Linuz
+- Windows 10 and 11
+- Macos :C Dont function
 
 
